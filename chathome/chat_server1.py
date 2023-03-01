@@ -9,6 +9,10 @@ socket and process exercise
 from socket import *
 from multiprocessing import Process
 
+def test():
+    pass
+
+
 # 服务器地址
 HOST = "0.0.0.0"
 PORT = 8888
